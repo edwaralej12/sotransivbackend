@@ -20,5 +20,6 @@ const mysql = require("mysql");
       password: "1234",
       database: "sotransiv",
       port: 3306,
+      socket = ""
     },
   );
